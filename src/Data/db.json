@@ -1,50 +1,39 @@
 {
   "user": [
     {
-      "id": 8,
-      "name": "Navneet Verma",
-      "email": "nv949788@gmail.com",
-      "phone": "9568978552111111111"
+      "employee": "EMP001SA",
+      "name": "Yash Bansal",
+      "email": "yash@gmail.com",
+      "phone": "09568978553",
+      "id": 1
     },
     {
-      "name": "Navneet Verma",
-      "email": "nv949788@gmail.com",
-      "phone": "9568978552",
-      "id": 14
+      "employee": "EMP002SA",
+      "name": "Nikhil Verma",
+      "email": "nikhil@gmail.com",
+      "phone": "8449075591",
+      "id": 2
     },
     {
-      "employee": "No",
-      "name": "Navneet Verma",
-      "email": "nv949788@gmail.com",
-      "phone": "9568978552",
-      "id": 16
+      "employee": "EMP003SA",
+      "name": "Akshay single",
+      "email": "akshay@gmail.com",
+      "phone": "0987654321",
+      "id": 3
     },
     {
-      "id": 17,
-      "name": "dd",
-      "email": "nv949788@gmail.com",
-      "phone": "9568978552"
+      "employee": "EMP004SA",
+      "name": "Tanu",
+      "email": "tanu@gmail.com",
+      "phone": "09123456789",
+      "id": 4
     },
     {
-      "employee": "qaweqe",
-      "name": "qweqwe",
-      "email": "nv949788@gmail.com",
-      "phone": "9568978552",
-      "id": 18
-    },
-    {
-      "id": 19,
-      "employee": "No",
-      "name": "Navneet Verma",
-      "email": "nv949788@gmail.com",
-      "phone": "9568978552"
-    },
-    {
-      "employee": "wefw",
-      "name": "Navneet Verma",
-      "email": "nv949788@gmail.com",
-      "phone": "9568978552",
-      "id": 20
+      "employee": "EMP005SA",
+      "name": "Aman Deep",
+      "email": "aman@gmail.com",
+      "phone": "8907654321",
+      "id": 5
     }
   ]
 }
