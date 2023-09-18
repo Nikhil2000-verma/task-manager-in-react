@@ -1,0 +1,50 @@
+{
+  "user": [
+    {
+      "id": 8,
+      "name": "Navneet Verma",
+      "email": "nv949788@gmail.com",
+      "phone": "9568978552111111111"
+    },
+    {
+      "name": "Navneet Verma",
+      "email": "nv949788@gmail.com",
+      "phone": "9568978552",
+      "id": 14
+    },
+    {
+      "employee": "No",
+      "name": "Navneet Verma",
+      "email": "nv949788@gmail.com",
+      "phone": "9568978552",
+      "id": 16
+    },
+    {
+      "id": 17,
+      "name": "dd",
+      "email": "nv949788@gmail.com",
+      "phone": "9568978552"
+    },
+    {
+      "employee": "qaweqe",
+      "name": "qweqwe",
+      "email": "nv949788@gmail.com",
+      "phone": "9568978552",
+      "id": 18
+    },
+    {
+      "id": 19,
+      "employee": "No",
+      "name": "Navneet Verma",
+      "email": "nv949788@gmail.com",
+      "phone": "9568978552"
+    },
+    {
+      "employee": "wefw",
+      "name": "Navneet Verma",
+      "email": "nv949788@gmail.com",
+      "phone": "9568978552",
+      "id": 20
+    }
+  ]
+}
